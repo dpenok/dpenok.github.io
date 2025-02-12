@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dpenok.csgad.com/qKv/sitemap.xml.gz
